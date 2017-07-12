@@ -1,6 +1,6 @@
 <?php
     $dir = "files/";
-    $blogpage = "http://siunus.blogspot.co.id/p/blog-page_17.html";
+    $blogpage = "http://repo.masangga.com/upload/index.html";
     if(isset($_FILES['file'])) {
         if($_FILES['file']['error'] > 0) {
             echo "
